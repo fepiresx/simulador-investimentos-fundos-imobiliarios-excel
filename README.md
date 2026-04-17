@@ -1,7 +1,7 @@
 # ✨ NYKOS CAPITAL | Investment Simulator
 
 <p align="center">
-  <img src="./images/banner.png" width="100%">
+  <img src="Banner - Oficial.png" width="100%">
 </p>
 
 <p align="center">
